@@ -13,7 +13,7 @@
 
 <img align="right" width="160" src="https://github.com/user-attachments/assets/28311536-05c0-489c-b574-72c7d3649a21" alt="Elysia Chibi">
 
-- 🎓 Cursando Bacharelado em **Ciência da Computação** na Universidade La Salle
+- 🎓 Cursando **Ciência da Computação** na Universidade La Salle
 - 💻 Especialização em Front-End pelo **Curso Full Stack 5.0** - Instituto Eldorado & Petrobras
 - 🚀 Desenvolvedora com foco no ecossistema Python e Front-End
 - 🎮 Apaixonada por tecnologia, desenvolvimento de software e jogos
