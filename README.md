@@ -1,6 +1,6 @@
 # Olá, eu sou a Mariana Paiva! 👋
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=3a3230&height=180&section=header&text=Mariana%20Paiva&fontSize=50&fontColor=ffffff)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=FF69B4,8A2BE2&height=180&section=header&text=Mariana%20Paiva&fontSize=50&fontColor=ffffff)
 
 ## 👩‍💻 Sobre mim
 - 🎓 Cursando **Ciência da Computação** na Universidade La Salle (2024 - 2028).
