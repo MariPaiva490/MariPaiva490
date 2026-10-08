@@ -11,10 +11,11 @@
 </p>
 
 ---
+<img width="180" height="163" alt="Screenshot_427" src="https://github.com/user-attachments/assets/28311536-05c0-489c-b574-72c7d3649a21" />
 
 ## 👩‍💻 Sobre mim
-- 🎓 Cursando **Ciência da Computação** na Universidade La Salle (2024 - 2028).
-- 💻 Bolsista **Curso Full Stack 5.0** - Instituto Eldorado & Petrobras (Junho 2026 - Dezembro 2026).
+- 🎓 Cursando **Ciência da Computação** na Universidade La Salle 
+- 💻 Bolsista **Curso Full Stack 5.0** - Instituto Eldorado & Petrobras
 - 🚀 Desenvolvedora com foco no ecossistema Python e Front-End.
 - 🎮 Apaixonada por tecnologia, desenvolvimento de software e jogos.
 - 🌍 Idiomas: Português (Nativo), Inglês (Intermediário - B1), Espanhol (Iniciante - A1).
