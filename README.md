@@ -1,5 +1,3 @@
-# Olá, eu sou a Mariana Paiva! 👋
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Mariana%20Paiva&fontSize=50&fontColor=ffffff" alt="Banner" width="100%"/>
 </p>
