@@ -13,8 +13,8 @@
 ---
 
 ## 👩‍💻 Sobre mim
-- 🎓 Cursando Bacharelado em **Ciência da Computação** na Universidade La Salle (2024 - 2028).
-- 💻 Especialização em Front-End pelo **Curso Full Stack 5.0** (Junho 2026 - Dezembro 2026).
+- 🎓 Cursando **Ciência da Computação** na Universidade La Salle (2024 - 2028).
+- 💻 Bolsista **Curso Full Stack 5.0** - Instituto Eldorado & Petrobras (Junho 2026 - Dezembro 2026).
 - 🚀 Desenvolvedora com foco no ecossistema Python e Front-End.
 - 🎮 Apaixonada por tecnologia, desenvolvimento de software e jogos.
 - 🌍 Idiomas: Português (Nativo), Inglês (Intermediário - B1), Espanhol (Iniciante - A1).
