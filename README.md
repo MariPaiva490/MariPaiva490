@@ -22,7 +22,6 @@
 - 🌍 Idiomas: Português (Nativo), Inglês (Intermediário - B1), Espanhol (Iniciante - A1).
 
 <br clear="right">
----
 
 ## 🛠 Tecnologias e Ferramentas
 <p align="left">
