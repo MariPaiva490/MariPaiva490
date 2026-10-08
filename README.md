@@ -1,12 +1,12 @@
 # Olá, eu sou a Mariana Paiva! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=0:4B0082,50:8A2BE2,100:FF69B4&height=180&section=header&text=Mariana%20Paiva&fontSize=50&fontColor=ffffff" alt="Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Mariana%20Paiva&fontSize=50&fontColor=ffffff" alt="Banner" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+Python+%26+Front-End;Apaixonada+por+Tecnologia+%26+Games" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedora+Python+%26+Front-End;Apaixonada+por+Tecnologia+%26+Games" alt="Typing SVG" />
   </a>
 </p>
 
