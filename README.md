@@ -11,17 +11,17 @@
 </p>
 
 ---
-<img align="right" width="180" src="https://github.com/user-attachments/assets/28311536-05c0-489c-b574-72c7d3649a21" alt="Elysia Chibi">
-
 ## 👩‍💻 Sobre mim
-- 🎓 Cursando **Ciência da Computação** na Universidade La Salle 
-- 💻 Bolsista **Curso Full Stack 5.0** - Instituto Eldorado & Petrobras
+
+<img align="right" width="160" src="https://github.com/user-attachments/assets/28311536-05c0-489c-b574-72c7d3649a21" alt="Elysia Chibi">
+
+- 🎓 Cursando Bacharelado em **Ciência da Computação** na Universidade La Salle (2024 - 2028).
+- 💻 Especialização em Front-End pelo **Curso Full Stack 5.0** - Instituto Eldorado & Petrobras.
 - 🚀 Desenvolvedora com foco no ecossistema Python e Front-End.
 - 🎮 Apaixonada por tecnologia, desenvolvimento de software e jogos.
 - 🌍 Idiomas: Português (Nativo), Inglês (Intermediário - B1), Espanhol (Iniciante - A1).
 
 <br clear="right">
-
 ---
 
 ## 🛠 Tecnologias e Ferramentas
