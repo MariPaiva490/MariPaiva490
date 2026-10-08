@@ -54,7 +54,3 @@
 </p>
 
 <br>
-
-<p align="left">
-  <img src="https://profile-counter.glitch.me/MariPaiva490/count.svg" alt="Contador de Visitas" />
-</p>
